@@ -1477,7 +1477,6 @@
        text-transform: uppercase;
        line-height: 35px;
        white-space: nowrap;
-       background: rgba(0, 0, 0, 0.39);
        /* transition: all 0.5s ease; */
    }
    .btn-bootstrap-2:hover {
