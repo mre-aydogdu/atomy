@@ -1465,14 +1465,11 @@ body:not(.post-template) .post-title {
     color: rgba(255,255,255,0.7);
     /* -webkit-animation: bounce 4s 2s infinite; */
     /* animation: bounce 4s 2s infinite; */
-    border: 1px solid transparent;
-    border-radius: 4px;
     padding: 6px 12px;
     margin-bottom: 0;
     font-weight: 400;
     /* height: 38px; */
     /* padding: 0 15px; */
-    border: #bfc8cd 1px solid;
     opacity: 1;
     /* color: #9EABB3; */
     /* text-align: center; */
@@ -1480,7 +1477,6 @@ body:not(.post-template) .post-title {
     text-transform: uppercase;
     line-height: 35px;
     white-space: nowrap;
-    border-radius: 3px;
     background: rgba(0, 0, 0, 0.39);
     /* transition: all 0.5s ease; */
 }
